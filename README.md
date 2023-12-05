@@ -13,11 +13,12 @@
 
 <br>
 (I'll only list significant commands further on )<br><br>
+
 **lvl-2:**<br>
-    <code>cat 'spaces in this filename' </code><br>
+    ```cat 'spaces in this filename' ```<br>
 <br>
 **lvl-3:**<br>
-    `` cd inhere ``<br>
+    ``` cd inhere ```<br>
     `` find ``<br>
     `` cat ./.hidden ``<br>
 <br>
@@ -28,7 +29,7 @@
        cat ./-file07```<br>
 <br>
 **lvl-5:**<br>
-    ```cd inhere
+    ```cd inhere<br>
        ls<br>
        find -readable -size 1033c ! -executable```<br>
        from this got, maybehere07/file2<br>
