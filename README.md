@@ -18,8 +18,8 @@
 <br>
 >lvl-3:<br>
     <code>cd inhere</code><br>
-    <code>find</code><br>
-    <code>cat ./.hidden</code><br>
+    <code> find</code><br>
+    <code> cat ./.hidden</code><br>
 <br>
 >lvl-4:<br>
     ```cd inhere<br>
