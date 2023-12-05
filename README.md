@@ -14,7 +14,7 @@
 <br>
 (I'll only list significant commands further on )<br><br>
 <u>lvl-2:</u><br>
-    ```cat 'spaces in this filename'```<br>
+    <code>cat 'spaces in this filename' </code><br>
 <br>
 <u>lvl-3:</u><br>
     ```cd inhere<br>
