@@ -1,25 +1,26 @@
 # Be-a-Bandit-repo
 ## lvl-0:
-***
 <br><br>
-    command for establishing connection for level 0<br>
+***    command for establishing connection for level 0<br>
     ```ssh bandit0@bandit.labs.overthewire.org -p 2220```<br>
        password was bandit0<br>
     used ```ls``` to see all the files in the directory<br>
     found readme, used ```cat readme``` and found the password for the next level<br>
+***
 <br>
 ## lvl-1:
 <br><br>
-    established connection for level 1<br>
+***    established connection for level 1<br>
     can't directly cat a file with name starting with '-'<br>
     so, used ```cat ./-```, found the next password<br>
-
+***
 <br>
 (I'll only list significant commands further on )<br><br>
 
 ## lvl-2:
 <br><br>
-    ```cat 'spaces in this filename' ```<br>
+***    ```cat 'spaces in this filename' ```<br>
+***
 <br>
 ## lvl-3:
 <br><br>
