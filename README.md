@@ -17,9 +17,11 @@
     <code>cat 'spaces in this filename' </code><br>
 <br>
 **lvl-3:**<br>
-    `cd inhere<br>
+    `
+    cd inhere<br>
     find<br>
-    cat ./.hidden`<br>
+    cat ./.hidden
+    `<br>
 <br>
 **lvl-4:**<br>
     ```cd inhere<br>
