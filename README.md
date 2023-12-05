@@ -3,7 +3,7 @@
 <br><br>
     command for establishing connection for level 0<br>
     ```ssh bandit0@bandit.labs.overthewire.org -p 2220```<br>
-       password was bandit0<br>
+       password was `bandit0`<br>
     used ```ls``` to see all the files in the directory<br>
     found readme, used ```cat readme``` and found the password for the next level<br>
 <br>
