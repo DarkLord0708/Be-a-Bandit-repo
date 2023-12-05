@@ -7,7 +7,8 @@
     used ```ls``` to see all the files in the directory<br>
     found readme, used ```cat readme``` and found the password for the next level<br>
 <br>
-## lvl-1:<br><br>
+## lvl-1:
+<br><br>
     established connection for level 1<br>
     can't directly cat a file with name starting with '-'<br>
     so, used ```cat ./-```, found the next password<br>
