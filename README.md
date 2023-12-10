@@ -1,4 +1,4 @@
-# Be-a-Bandit-repo
+# Be-a-Bandit-repo (all the passwords are stored in passwords.txt)
 ## lvl-0:
 <br><br>
     command for establishing connection for level 0<br>
