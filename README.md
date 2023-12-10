@@ -154,7 +154,7 @@ used ssh key to login, after changing the permissions, and got in<br>
 had to use diff,<br>
 ```diff passwords.new passwords.old```<br>
 output had two passwords, one with > and other with <.<br>
-> showed the old one because old file was given on the right side and < showed new one<br>
+'>' showed the old one because old file was given on the right side and '<' showed new one<br>
 <br>
 ## lvl-18:
 <br><br>
