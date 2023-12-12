@@ -1,4 +1,5 @@
-# over-the-wire-bandit (all the passwords are stored in passwords.txt)
+# over-the-wire-bandit 
+(all the passwords are stored in passwords.txt)
 ## lvl-0:
 <br><br>
     command for establishing connection for level 0<br>
